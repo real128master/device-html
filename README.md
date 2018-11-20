@@ -1,4 +1,3 @@
 # device-html
 
-
-complete pullrequest
+* Project "DEVICE" from "html academy"
