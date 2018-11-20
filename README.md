@@ -1,3 +1,3 @@
 # device-html
 
-* Project "device" from "html academy"
+* Project "DEVICE" from "html academy"
